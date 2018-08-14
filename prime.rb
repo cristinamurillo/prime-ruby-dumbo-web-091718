@@ -5,5 +5,5 @@ def prime?(int)
     counter = 1
   end
  end
- counter == 1 && int > 0 ? true:false 
+ counter == 0 && int > 0 ? true:false 
 end
